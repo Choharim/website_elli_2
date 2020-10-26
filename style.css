@@ -1,0 +1,5 @@
+.nav_bar {
+  font-family: "Indie Flower", cursive;
+  display: flex;
+  justify-content: space-between;
+}
